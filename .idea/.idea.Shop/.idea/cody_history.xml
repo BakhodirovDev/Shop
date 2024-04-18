@@ -5,54 +5,22 @@
       <list>
         <chat>
           <accountId value="VXNlcjozNjIzMTM=" />
-          <internalId value="2bb64cdb-8cf9-465b-87ce-7fd5b4df6396" />
+          <internalId value="946aa7fc-f936-4cc5-82c4-bbc8d28c37d7" />
           <llm>
             <llm>
-              <model value="anthropic/claude-3-sonnet-20240229" />
+              <model value="anthropic/claude-3-opus-20240229" />
               <provider value="Anthropic" />
-              <title value="Claude 3 Sonnet" />
+              <title value="Claude 3 Opus" />
             </llm>
           </llm>
-        </chat>
-        <chat>
-          <accountId value="VXNlcjozNjIzMTM=" />
-          <internalId value="954297c8-033b-4935-9147-3a319baf0a5c" />
-          <llm>
-            <llm>
-              <model value="openai/gpt-4-turbo-preview" />
-              <provider value="OpenAI" />
-              <title value="GPT-4 Turbo Preview" />
-            </llm>
-          </llm>
-          <messages>
-            <list>
-              <message>
-                <speaker value="HUMAN" />
-                <text value="men o'z kodlarimni sarvar degan branch ostida https://github.com/BakhodirovDev/Shop shunga push qilish kodini yozib ber" />
-              </message>
-              <message>
-                <speaker value="ASSISTANT" />
-                <text value="Agar sizda allaqachon lokal git repositoriyangiz mavjud bo'lsa va siz o'zgarishlaringizni &quot;sarvar&quot; degan branch ostida https://github.com/BakhodirovDev/Shop repositoriyasiga push qilmoqchi bo'lsangiz, quyidagi qadamlarni bajarishingiz kerak:&#10;&#10;1. Avvalambor, sizda &quot;sarvar&quot; branchi mavjudligini tekshiring. Agar mavjud bo'lmasa, uni yaratishingiz kerak. Buni amalga oshirish uchun quyidagi buyruqni ishlatishingiz mumkin:&#10;&#10;```bash&#10;git checkout -b sarvar&#10;```&#10;&#10;Agar &quot;sarvar&quot; branchi allaqachon mavjud bo'lsa, uni tanlash uchun:&#10;&#10;```bash&#10;git checkout sarvar&#10;```&#10;&#10;2. O'zgarishlaringizni lokal &quot;sarvar&quot; branchiga qo'shing va commit qiling:&#10;&#10;```bash&#10;git add .&#10;git commit -m &quot;O'zgarishlar haqida izoh&quot;&#10;```&#10;&#10;3. Endi, siz o'zgarishlaringizni GitHub'dagi &quot;sarvar&quot; branchiga push qilishingiz kerak. Agar siz avval bu repositoriyaga push qilmagan bo'lsangiz, avval uni remote sifatida qo'shishingiz kerak bo'ladi. Buni quyidagicha amalga oshirishingiz mumkin:&#10;&#10;```bash&#10;git remote add origin https://github.com/BakhodirovDev/Shop.git&#10;```&#10;&#10;Agar siz allaqachon &quot;origin&quot; nomli remote qo'shgan bo'lsangiz va bu boshqa URL bo'lsa, siz uni yangilashingiz yoki boshqa nom bilan qo'shishingiz mumkin. Masalan, &quot;shop&quot; deb nomlang:&#10;&#10;```bash&#10;git remote add shop https://github.com/BakhodirovDev/Shop.git&#10;```&#10;&#10;4. Endi, o'zgarishlaringizni &quot;sarvar&quot; branchiga push qilish uchun quyidagi buyruqni ishlating:&#10;&#10;```bash&#10;git push origin sarvar&#10;```&#10;&#10;Agar siz &quot;origin&quot; o'rniga boshqa nomdan foydalangan bo'lsangiz (masalan, &quot;shop&quot;), quyidagicha buyruqni ishlating:&#10;&#10;```bash&#10;git push shop sarvar&#10;```&#10;&#10;Bu sizning lokal &quot;sarvar&quot; branchidagi o'zgarishlaringizni GitHub'dagi &quot;Shop&quot; repositoriyasining &quot;sarvar&quot; branchiga push qiladi. Agar sizda ruxsatlar yoki boshqa muammolar bo'lsa, ularni hal qilish uchun GitHub hisob qaydnomangizning sozlamalarini yoki repositoriyangizning ruxsatlarini tekshiring." />
-              </message>
-              <message>
-                <speaker value="HUMAN" />
-                <text value="PS C:\Users\jabbo\RiderProjects\Shop&amp;gt; git remote add origin https://github.com/BakhodirovDev/Shop.git&#10;error: remote origin already exists.&#10;PS C:\Users\jabbo\RiderProjects\Shop&amp;gt; git push origin sarvar&#10;remote: Permission to USamar0101/Shop.git denied to sarvar0804.&#10;fatal: unable to access 'https://github.com/USamar0101/Shop/': The requested URL returned error: 403&#10;" />
-              </message>
-              <message>
-                <speaker value="ASSISTANT" />
-                <text value="Xatolik xabari sizga `origin` nomli uzoq masofali repozitoriy (remote repository) allaqachon mavjudligini va sizda `https://github.com/USamar0101/Shop/` repozitoriyasiga yozish (push) huquqi yo'qligini ko'rsatmoqda. Bu muammo ikki asosiy sababga ko'ra yuzaga kelishi mumkin:&#10;&#10;1. **Ruxsatlar Masalasi:** Siz `sarvar0804` foydalanuvchi nomi bilan `USamar0101/Shop` repozitoriyasiga yozishga urinyapsiz, lekin bu foydalanuvchiga repozitoriyaga yozish huquqi berilmagan. Bu holatda, repozitoriyani boshqaruvchi shaxs (ehtimol `USamar0101`) sizga yozish huquqini berishi kerak.&#10;&#10;2. **Notog'ri Repozitoriyaga Push Qilish:** Siz `https://github.com/BakhodirovDev/Shop.git` manziliga push qilmoqchi edingiz, lekin xatolik xabari siz `https://github.com/USamar0101/Shop/` repozitoriyasiga push qilishga urinayotganingizni ko'rsatmoqda. Bu, ehtimol, sizning lokal git konfiguratsiyangizda `origin` remote'ining noto'g'ri sozlanganligidan kelib chiqqan.&#10;&#10;Muammoni hal qilish uchun quyidagi qadamlarni bajaring:&#10;&#10;### Ruxsatlar Masalasini Hal Qilish&#10;Agar siz `USamar0101/Shop` repozitoriyasiga yozish huquqiga ega bo'lishingiz kerak bo'lsa, repozitoriyani boshqaruvchi shaxsdan sizni repozitoriyaga yozuvchi (collaborator) sifatida qo'shishni so'rang.&#10;&#10;### Notog'ri Remote URL'ini Tuzatish&#10;Agar siz noto'g'ri repozitoriyaga push qilayotgan bo'lsangiz, to'g'ri repozitoriyaga push qilish uchun `origin` remote'ining URL'ini tuzatishingiz kerak. Buni amalga oshirish uchun avval `origin` remote'ining URL'ini o'zgartiring:&#10;&#10;```bash&#10;git remote set-url origin https://github.com/BakhodirovDev/Shop.git&#10;```&#10;&#10;Keyin, push qilishga qayta urinib ko'ring:&#10;&#10;```bash&#10;git push origin sarvar&#10;```&#10;&#10;Agar siz `origin` nomi bilan boshqa bir repozitoriyaga ishlayotgan bo'lsangiz va uni o'zgartirishni istamasangiz, yangi bir remote qo'shishingiz mumkin. Masalan, `bakhodirov` deb nomlangan yangi remote qo'shish:&#10;&#10;```bash&#10;git remote add bakhodirov https://github.com/BakhodirovDev/Shop.git&#10;```&#10;&#10;Keyin, yangi qo'shilgan remote orqali push qiling:&#10;&#10;```bash&#10;git push bakhodirov sarvar&#10;```&#10;&#10;Bu qadamlar sizning muammoni hal qilishingizga yordam berishi kerak." />
-              </message>
-            </list>
-          </messages>
-          <updatedAt value="2024-04-18T22:30:49.1189931" />
         </chat>
       </list>
     </chats>
     <defaultLlm>
       <llm>
-        <model value="openai/gpt-4-turbo-preview" />
-        <provider value="OpenAI" />
-        <title value="GPT-4 Turbo Preview" />
+        <model value="anthropic/claude-3-opus-20240229" />
+        <provider value="Anthropic" />
+        <title value="Claude 3 Opus" />
       </llm>
     </defaultLlm>
   </component>
