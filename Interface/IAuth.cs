@@ -13,6 +13,6 @@ namespace Shop.Interface
         void Register();
         bool Login(string username, string password);
 
-        int ChangeRole(Users users, Role role);
+        int ChangeRole(Users users, int role);
     }
 }
