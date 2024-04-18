@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Project\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\shop\\function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\shop\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\shop\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\shop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Interface\\IAuth.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuth.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Interface\\IAuth.cs",
+              "RelativeToolTip": "Interface\\IAuth.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:13:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Function\\Auth.cs",
+              "RelativeDocumentMoniker": "Function\\Auth.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Function\\Auth.cs",
+              "RelativeToolTip": "Function\\Auth.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwD4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:13:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:10:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:07:32.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:56:15.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
