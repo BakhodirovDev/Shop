@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\page\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:page\\clientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\page\\superadminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:page\\superadminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\page\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:page\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\function\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:function\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientPage.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\ClientPage.cs",
+              "RelativeDocumentMoniker": "Page\\ClientPage.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\ClientPage.cs",
+              "RelativeToolTip": "Page\\ClientPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:38:28.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperadminPage.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\SuperadminPage.cs",
+              "RelativeDocumentMoniker": "Page\\SuperadminPage.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\SuperadminPage.cs",
+              "RelativeToolTip": "Page\\SuperadminPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:38:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\AdminPage.cs",
+              "RelativeDocumentMoniker": "Page\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Page\\AdminPage.cs",
+              "RelativeToolTip": "Page\\AdminPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:37:38.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Notification.cs",
+              "RelativeDocumentMoniker": "Function\\Notification.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Notification.cs",
+              "RelativeToolTip": "Function\\Notification.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:36:36.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:15:49.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeDocumentMoniker": "Function\\Auth.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeToolTip": "Function\\Auth.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:05:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Interface\\IAuth.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuth.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Interface\\IAuth.cs",
+              "RelativeToolTip": "Interface\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:05:20.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:05:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:05:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:25:28.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

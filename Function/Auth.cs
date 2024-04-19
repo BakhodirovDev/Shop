@@ -34,15 +34,16 @@ namespace Shop.Function
         }
         public void Register()
         {
-            Console.Write("FullNameni kiriting: ");
-            string FullName =Console.ReadLine();
-            Console.Write("userName kiriting: ");
-            string userName =Console.ReadLine();
-            Console.Write("Password kiriting: ");
-            string Password =Console.ReadLine();
-            Console.Write("PhoneNumber kiriting: +998");
-            string PhoneNumber =Console.ReadLine();
-            Console.Write("Email kiriting: ");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Write("        FullNameni kiriting: ");
+            string FullName = Console.ReadLine();
+            Console.Write("        UserName kiriting: ");
+            string userName = Console.ReadLine();
+            Console.Write("        Password kiriting: ");
+            string Password = Console.ReadLine();
+            Console.Write("        PhoneNumber kiriting: +998");
+            string PhoneNumber = Console.ReadLine();
+            Console.Write("        Email kiriting: ");
             string? Email = Console.ReadLine();
 
             Users users = new Users()
@@ -97,6 +98,42 @@ namespace Shop.Function
                 Console.WriteLine("");
             }
             return choose;
+        }
+
+        internal void RegisterPage()
+        {
+            Notification notification = new Notification();
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("\n\n");
+            notification.Note("Ro'yxatdan o'tish sahifasiga xush kelibsiz.");
+            Console.WriteLine("\n\n\n");
+            Register();
+            Console.Clear();
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n");
+            notification.Success("Muvaffaqiyatli ro'yxatdan o'tdingiz.");
+            Thread.Sleep(3000);
+            Main_Shop.main();
+        }
+
+        internal void LoginPage()
+        {
+            Notification notification = new Notification();
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("\n\n");
+            notification.Note("Tizimga kirish sahifasiga xush kelibsiz.");
+            Console.WriteLine("\n\n\n");
+            Console.Write("        UserName kiriting: ");
+            string username = Console.ReadLine();
+            Console.Write("        Password kiriting: ");
+            string password = Console.ReadLine();
+            Login(username, password);
+            Console.Clear();
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n");
+            notification.Success("Muvaffaqiyatli tizimga kirdingiz.");
+            Thread.Sleep(3000);
+            Main_Shop.main();
         }
     }
 }
