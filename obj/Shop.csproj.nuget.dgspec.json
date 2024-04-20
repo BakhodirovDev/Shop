@@ -1,151 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj": {}
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "D:\\shopping\\Shop\\Shop.csproj": {}
-=======
-    "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj": {}
->>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
-=======
-<<<<<<< HEAD
-    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj": {}
->>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
-  },
-  "projects": {
-    "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj",
-        "projectName": "Shop",
-        "projectPath": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\NIGHT OWL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\NIGHT OWL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-          "D:\\Users\\User 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {}
->>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
-  },
-  "projects": {
-    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
-        "projectName": "Shop",
-        "projectPath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\shop\\obj\\",
-=======
-    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
-=======
-    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
->>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
-=======
     "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
-<<<<<<< HEAD
->>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
   },
   "projects": {
-    "D:\\shopping\\Shop\\Shop.csproj": {
+    "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\shopping\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "D:\\shopping\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\shopping\\Shop\\obj\\",
-=======
->>>>>>> 0e184787668fdf708f71db87804f1413f285680f
-  },
-  "projects": {
-    "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
-        "projectName": "Shop",
-        "projectPath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Shop\\obj\\",
->>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+        "projectPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\Behruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
-=======
-    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
->>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
->>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
->>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
-  },
-  "projects": {
-    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
-        "projectName": "Shop",
-<<<<<<< HEAD
-        "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
-=======
-<<<<<<< HEAD
-        "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
->>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
-=======
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
->>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
->>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
-=======
-<<<<<<< HEAD
-          "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
->>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
-=======
-          "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
->>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
-=======
->>>>>>> 0e184787668fdf708f71db87804f1413f285680f
-<<<<<<< HEAD
->>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
-=======
->>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
->>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
->>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -166,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -187,39 +60,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
->>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
->>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
->>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
->>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
-=======
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
->>>>>>> 0e184787668fdf708f71db87804f1413f285680f
-<<<<<<< HEAD
->>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
-=======
->>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
->>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
->>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
         }
       }
     }

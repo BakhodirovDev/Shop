@@ -37,6 +37,7 @@ public class Program
             // Behruz
 
             //HAMMA UYGA GOOO
+            // Mirjahon bulli ketdik
 
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
