@@ -5,34 +5,12 @@
       <list>
         <chat>
           <accountId value="VXNlcjozNjIzMTM=" />
-          <internalId value="946aa7fc-f936-4cc5-82c4-bbc8d28c37d7" />
+          <internalId value="a37808b0-4375-45d5-8b9e-e1b0ca706578" />
           <llm>
             <llm>
-              <model value="anthropic/claude-3-opus-20240229" />
-              <provider value="Anthropic" />
-              <title value="Claude 3 Opus" />
-            </llm>
-          </llm>
-        </chat>
-        <chat>
-          <accountId value="VXNlcjozNjIzMTM=" />
-          <internalId value="fd293957-eba2-4707-8620-11c9ca8d3d4b" />
-          <llm>
-            <llm>
-              <model value="anthropic/claude-3-opus-20240229" />
-              <provider value="Anthropic" />
-              <title value="Claude 3 Opus" />
-            </llm>
-          </llm>
-        </chat>
-        <chat>
-          <accountId value="VXNlcjozNjIzMTM=" />
-          <internalId value="d6277c6f-32c5-4368-b269-43d4b92fa712" />
-          <llm>
-            <llm>
-              <model value="anthropic/claude-3-opus-20240229" />
-              <provider value="Anthropic" />
-              <title value="Claude 3 Opus" />
+              <model value="openai/gpt-4-turbo-preview" />
+              <provider value="OpenAI" />
+              <title value="GPT-4 Turbo Preview" />
             </llm>
           </llm>
         </chat>
@@ -40,9 +18,9 @@
     </chats>
     <defaultLlm>
       <llm>
-        <model value="anthropic/claude-3-opus-20240229" />
-        <provider value="Anthropic" />
-        <title value="Claude 3 Opus" />
+        <model value="openai/gpt-4-turbo-preview" />
+        <provider value="OpenAI" />
+        <title value="GPT-4 Turbo Preview" />
       </llm>
     </defaultLlm>
   </component>
