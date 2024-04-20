@@ -8,6 +8,13 @@ public class Program
         try
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
+            //Oybek Eshonqulov 
+=======
+<<<<<<< HEAD
+            // Nazirov Elmurod
+            // Sulaymanov Islom
+=======
             // Behruz
 =======
 <<<<<<< HEAD
@@ -24,6 +31,7 @@ public class Program
 
 =======
             // Timur
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
 >>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
 
 >>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
