@@ -2,6 +2,9 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj": {}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     "D:\\shopping\\Shop\\Shop.csproj": {}
 =======
@@ -14,18 +17,26 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
     "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj": {}
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
   },
   "projects": {
-    "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj": {
+    "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj",
-        "packagesPath": "D:\\Users\\User 2022\\.nuget\\packages\\",
-        "outputPath": "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\obj\\",
+        "projectPath": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\NIGHT OWL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\NIGHT OWL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
           "D:\\Users\\User 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
     "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
@@ -134,6 +145,7 @@
 =======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 >>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -141,6 +153,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -175,6 +188,9 @@
             }
           },
 <<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
 =======
@@ -203,6 +219,7 @@
 =======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 >>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
         }
       }
     }
