@@ -3,6 +3,24 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+        "projectName": "Shop",
+        "projectPath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\shop\\obj\\",
+=======
+    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
+=======
+    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
+>>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
+=======
     "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
   },
   "projects": {
@@ -22,6 +40,7 @@
 =======
     "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
 >>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
+>>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
   },
   "projects": {
     "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {
@@ -29,9 +48,16 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
         "projectName": "Shop",
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
+=======
         "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
+>>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
         "projectStyle": "PackageReference",
         "configFilePaths": [
 <<<<<<< HEAD
