@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "D:\\Users\\User 2022\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj",
       "projectName": "Shop",
       "projectPath": "C:\\Asosiy kurs. 06.02.2024\\3-Modul\\Yangi\\Shop.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\User 2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
