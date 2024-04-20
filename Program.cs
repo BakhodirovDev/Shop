@@ -8,6 +8,12 @@ public class Program
         try
         {
 
+            // Orazbaev Merxat
+
+            // Behruz
+
+            //  QONDAYSILAR !!!!!!!!!!
+
             //Oybek Eshonqulov 
 
             // Nazirov Elmurod
@@ -20,17 +26,9 @@ public class Program
             // dars qiling Anvar
 
             // Timur
-<<<<<<< HEAD
->>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
 
-<<<<<<< HEAD
                 // HAYOTJON QONDAYSIZEEE
 
-=======
->>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
->>>>>>> 0e184787668fdf708f71db87804f1413f285680f
-=======
->>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 
             //First
 

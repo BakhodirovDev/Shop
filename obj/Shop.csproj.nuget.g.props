@@ -6,12 +6,36 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\user\.nuget\packages\</NuGetPackageFolders>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">D:\Users\User 2022\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="D:\Users\User 2022\.nuget\packages\" />
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\hp\.nuget\packages\</NuGetPackageFolders>
+=======
+<<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Behruz\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\user\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\hp\.nuget\packages\" />
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
+=======
+    <SourceRoot Include="C:\Users\Behruz\.nuget\packages\" />
+=======
     <SourceRoot Include="C:\Users\user\.nuget\packages\" />
+>>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\WINDOWS 11\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
@@ -19,6 +43,14 @@
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\WINDOWS 11\.nuget\packages\" />
+<<<<<<< HEAD
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
+=======
+    <SourceRoot Include="C:\Users\User\.nuget\packages\" />
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
+>>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
+=======
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
   </ItemGroup>
 </Project>
