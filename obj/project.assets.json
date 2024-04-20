@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
