@@ -28,6 +28,7 @@ public class Program
             // Sulaymanov Islom
 <<<<<<< HEAD
             // Abdullayev Hayot
+
 =======
             // Timur
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
