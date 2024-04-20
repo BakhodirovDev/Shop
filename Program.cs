@@ -7,6 +7,7 @@ public class Program
     {
         try
         {
+
             // Orazbaev Merxat
 
             // Behruz
@@ -15,17 +16,17 @@ public class Program
 
             //Oybek Eshonqulov 
 
-            //Javohir
             // Nazirov Elmurod
             // Sulaymanov Islom
             // Behruz
             //  QONDAYSILAR !!!!!!!!!!
             // Nazirov Elmurod
             // Sulaymanov Islom
-
             // Abdullayev Hayot
+            // dars qiling Anvar
 
             // Timur
+
                 // HAYOTJON QONDAYSIZEEE
 
 

@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "kQaVT1g2Dl9YVu5fNqOSq0QWrSqmAmsGYeirYXcNFxnyo27qWbnHAzJPx4MTlXx45Y51ZzLDrVRSg3kiIvnyaA==",
+  "success": true,
+  "projectFilePath": "D:\\shopping\\Shop\\Shop.csproj",
+=======
   "dgSpecHash": "2tCQquh6d3d78vI7VW9NWghruQJMkXehT99g+ApWwRJ2fjsmboJZOaJmE3LUTjjTSIV3Dsi4SdtDGhwzpAHo3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
 =======
 <<<<<<< HEAD
   "dgSpecHash": "wWhkPNBe1g1KDJc2uzsthiaUX8JP52ZET8rxGKP57KsNqsoh9oOKXROUYyxDlHrAijbKBgwsktFXShMinwWgTA==",
@@ -52,15 +58,26 @@
 >>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
 =======
 >>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+<<<<<<< HEAD
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+<<<<<<< HEAD
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+=======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problem reading the cache file D:\\shopping\\Shop\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
       "message": "Ошибка чтения файла кэша C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
     }
   ]
 }

@@ -2,7 +2,11 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+    "D:\\shopping\\Shop\\Shop.csproj": {}
+=======
     "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj": {}
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
 =======
 <<<<<<< HEAD
     "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
@@ -47,6 +51,19 @@
 >>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
 =======
     "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
+<<<<<<< HEAD
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+  },
+  "projects": {
+    "D:\\shopping\\Shop\\Shop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\shopping\\Shop\\Shop.csproj",
+        "projectName": "Shop",
+        "projectPath": "D:\\shopping\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\shopping\\Shop\\obj\\",
+=======
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
   },
   "projects": {
@@ -58,6 +75,7 @@
         "projectPath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Shop\\obj\\",
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
         "projectStyle": "PackageReference",
         "configFilePaths": [
 <<<<<<< HEAD
@@ -107,8 +125,15 @@
 >>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
 =======
           "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+<<<<<<< HEAD
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+=======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,6 +175,12 @@
             }
           },
 <<<<<<< HEAD
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
 <<<<<<< HEAD
 =======
@@ -167,7 +198,11 @@
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+<<<<<<< HEAD
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+=======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
         }
       }
     }

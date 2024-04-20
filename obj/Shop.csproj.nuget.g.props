@@ -7,8 +7,14 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
 <<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\user\.nuget\packages\</NuGetPackageFolders>
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">D:\Users\User 2022\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
   </PropertyGroup>
@@ -35,15 +41,29 @@
     <SourceRoot Include="C:\Users\Behruz\.nuget\packages\" />
 =======
     <SourceRoot Include="C:\Users\user\.nuget\packages\" />
+<<<<<<< HEAD
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+=======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\WINDOWS 11\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\user\.nuget\packages\" />
+=======
     <SourceRoot Include="C:\Users\WINDOWS 11\.nuget\packages\" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
+=======
 >>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
 =======
     <SourceRoot Include="C:\Users\User\.nuget\packages\" />
@@ -52,5 +72,6 @@
 =======
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
   </ItemGroup>
 </Project>
