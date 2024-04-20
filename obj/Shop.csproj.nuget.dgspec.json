@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
   },
   "projects": {
@@ -18,27 +19,33 @@
           "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
     "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
+=======
+    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
   },
   "projects": {
-    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,10 +85,14 @@
             }
           },
 <<<<<<< HEAD
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
 >>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
         }
       }
     }
