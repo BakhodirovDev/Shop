@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shop
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\user\Desktop\Shop\
+=======
 build_property.ProjectDir = C:\Users\admin\Desktop\Project\NewShop\Shop\
+>>>>>>> 21edfee4b2aea756211fb693a8902fe7b325a837
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
