@@ -9,10 +9,14 @@ public class Program
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
             // Nazirov Elmurod
             // Sulaymanov Islom
             //Jasur Khushbokov
+=======
+            // Orazbaev Merxat
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
 =======
 <<<<<<< HEAD
             // Behruz
@@ -24,10 +28,15 @@ public class Program
 <<<<<<< HEAD
 =======
 >>>>>>> cfcc8e739f0a15dd3d4f86272f5dd9e56f45d8d0
+<<<<<<< HEAD
+=======
+>>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
+>>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
 =======
 
             //Oybek Eshonqulov 
 
+>>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
             // Nazirov Elmurod
             // Sulaymanov Islom
             // Behruz
