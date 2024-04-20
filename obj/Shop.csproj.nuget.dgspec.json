@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

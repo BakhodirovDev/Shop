@@ -10,7 +10,7 @@ public class Program
             // Nazirov Elmurod
             // Nazirov Elmurod 2
             // Sulaymanov Islom
-
+            // Abdullayev Hayotjon
 
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
