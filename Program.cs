@@ -8,6 +8,9 @@ public class Program
         try
         {
 <<<<<<< HEAD
+            // Behruz
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
             //  QONDAYSILAR !!!!!!!!!!
 =======
@@ -24,6 +27,7 @@ public class Program
 
             // Behruz
 
+>>>>>>> 13858378830e7e366d2ff8471af9957755620c66
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Main_Shop.main();
