@@ -7,6 +7,7 @@ public class Program
     {
         try
         { 
+<<<<<<< HEAD
 
             // Orazbaev Merxat
 
@@ -35,6 +36,8 @@ public class Program
 
             // Behruz
 
+=======
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Main_Shop.main();
