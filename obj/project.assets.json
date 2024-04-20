@@ -8,19 +8,69 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\user\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\": {}
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\shopping\\Shop\\Shop.csproj",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\shop\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
+=======
+      "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
       "projectName": "Shop",
       "projectPath": "D:\\shopping\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\shopping\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
+=======
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
+>>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
+>>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +116,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
       }
     }
   },
@@ -75,7 +129,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\shopping\\Shop\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Ошибка чтения файла кэша C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
     }
   ]
 }
