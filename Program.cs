@@ -8,7 +8,6 @@ public class Program
         try
         {
             // Nazirov Elmurod
-            // Nazirov Elmurod 2
             // Sulaymanov Islom
             // Abdullayev Hayotjon
 
