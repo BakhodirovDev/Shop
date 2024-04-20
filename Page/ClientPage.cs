@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Shop.Page
 {
-    internal class ClientPage
+    public class ClientPage
     {
+        // merge
     }
 }
