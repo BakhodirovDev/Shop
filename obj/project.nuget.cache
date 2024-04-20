@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "AVcFvCyldBfFW01D3mCADe5OKOp0SHkLygS3eJImwkH9O1195MGisC1W/KkrjbLzyBOeusT1W5kkFeFlJjx/WA==",
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "V9VQjQCwJsvlct2nTfNCcP3+2q3A7G/R7IasRSLAijD3sA3jo5kF25v8eNhzfFWFzsCzQRFpyFdQ6M33RtLSWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+=======
+  "dgSpecHash": "wWhkPNBe1g1KDJc2uzsthiaUX8JP52ZET8rxGKP57KsNqsoh9oOKXROUYyxDlHrAijbKBgwsktFXShMinwWgTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
+=======
+  "dgSpecHash": "LqggiMyTm7JgVWf5Oe8nFim7DoTz66SaMKf8/B2f9ltFOYRk2Rajw6b5dkIbckzJfIdXSkV0ZNY7LDMKFc4CrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
   "expectedPackageFiles": [],
   "logs": []
 }
