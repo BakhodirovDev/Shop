@@ -20,7 +20,7 @@ public class Program
             // Nazirov Elmurod
             // Sulaymanov Islom
 <<<<<<< HEAD
-            // Abdullayev Hayot
+            // dars qiling Anvar
 
 =======
             // Timur
