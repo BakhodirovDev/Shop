@@ -6,6 +6,9 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\NIGHT OWL\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\user\.nuget\packages\</NuGetPackageFolders>
 <<<<<<< HEAD
@@ -15,10 +18,15 @@
 <<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">D:\Users\User 2022\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+    <SourceRoot Include="C:\Users\NIGHT OWL\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+=======
     <SourceRoot Include="D:\Users\User 2022\.nuget\packages\" />
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\hp\.nuget\packages\</NuGetPackageFolders>
@@ -73,5 +81,6 @@
 >>>>>>> 0e184787668fdf708f71db87804f1413f285680f
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 >>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
   </ItemGroup>
 </Project>

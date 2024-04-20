@@ -7,6 +7,35 @@ public class Program
     {
         try
         { 
+
+            // Orazbaev Merxat
+
+            // Behruz
+
+            //  QONDAYSILAR !!!!!!!!!!
+
+            //Oybek Eshonqulov 
+
+            // Nazirov Elmurod
+            // Sulaymanov Islom
+            // Behruz
+            //  QONDAYSILAR !!!!!!!!!!
+            // Nazirov Elmurod
+            // Sulaymanov Islom
+            // Abdullayev Hayot
+            // dars qiling Anvar
+
+            // Timur
+
+                // HAYOTJON QONDAYSIZEEE
+
+
+            //Hamidjon Toshpo'lotov
+
+            //First
+
+            // Behruz
+
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Main_Shop.main();

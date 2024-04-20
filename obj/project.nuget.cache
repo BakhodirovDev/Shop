@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "Jm4IFlbs4OY/dNi/OrhauuueODTcnIM6Lr1ZOXURAOAEkWoN0U1ubE/VDOWKJWFXdVMdy6hk7zo1qz06BLPVGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\Shop.csproj",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "dgSpecHash": "kQaVT1g2Dl9YVu5fNqOSq0QWrSqmAmsGYeirYXcNFxnyo27qWbnHAzJPx4MTlXx45Y51ZzLDrVRSg3kiIvnyaA==",
   "success": true,
@@ -67,6 +72,7 @@
 =======
 >>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
 >>>>>>> 4bafe6687a3348881bea2dc062bacbd1a806fa5a
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
   "expectedPackageFiles": [],
   "logs": [
     {
@@ -74,10 +80,14 @@
       "level": "Warning",
       "warningLevel": 1,
 <<<<<<< HEAD
+      "message": "Ошибка чтения файла кэша C:\\Users\\NIGHT OWL\\OneDrive\\Рабочий стол\\123\\Shop\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\shopping\\Shop\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
 =======
       "message": "Ошибка чтения файла кэша C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
 >>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+>>>>>>> 87e548094ab5b949a4776b1999ea36abe7a3a361
     }
   ]
 }
