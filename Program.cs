@@ -6,7 +6,7 @@ public class Program
     public static void Main()
     {
         try
-        {
+        { 
 
             // Orazbaev Merxat
 
