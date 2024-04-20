@@ -39,3 +39,15 @@ Thumbs.db
 *.pid
 *.seed
 *.pid.lock
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Other specific files
+specific_file.txt
