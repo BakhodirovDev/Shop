@@ -82,7 +82,7 @@ namespace Shop.Function
             return resultUser;
 
         }
-
+        //Diar change
         public int RoleShow()
         {
             int choose=2;
