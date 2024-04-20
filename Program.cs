@@ -7,6 +7,9 @@ public class Program
     {
         try
         {
+            // Nazirov Elmurod
+            // Sulaymanov Islom
+
 
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;

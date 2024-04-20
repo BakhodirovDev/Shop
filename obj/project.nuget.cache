@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0mGlMNPI5+3JzLSLK0RPG3fbbtGv6Yb2dSxa+jUO8j6E5rzU/Nnr1prh1gtnwLZjjMPLN0DDCwdv287vMZxhrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+=======
+  "dgSpecHash": "AVcFvCyldBfFW01D3mCADe5OKOp0SHkLygS3eJImwkH9O1195MGisC1W/KkrjbLzyBOeusT1W5kkFeFlJjx/WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
   "expectedPackageFiles": [],
   "logs": []
 }
