@@ -34,15 +34,15 @@ namespace Shop.Function
         }
         public void Register()
         {
-            Console.Write("FullNameni kiriting: ");
+            Console.Write("Ism Familiyani kiriting : ");
             string FullName =Console.ReadLine();
-            Console.Write("userName kiriting: ");
+            Console.Write("Usernameni kiriting : ");
             string userName =Console.ReadLine();
-            Console.Write("Password kiriting: ");
+            Console.Write("Parolni kiriting : ");
             string Password =Console.ReadLine();
-            Console.Write("PhoneNumber kiriting: +998");
+            Console.Write("Telefon nomerni kiriting : +998");
             string PhoneNumber =Console.ReadLine();
-            Console.Write("Email kiriting: ");
+            Console.Write("Emailni kiriting : ");
             string? Email = Console.ReadLine();
 
             Users users = new Users()
