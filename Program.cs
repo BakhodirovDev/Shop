@@ -17,6 +17,7 @@ public class Program
             // Nazirov Elmurod
             // Sulaymanov Islom
             // Abdullayev Hayot
+            // dars qiling Anvar
 
             // Timur
 
