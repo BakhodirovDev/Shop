@@ -16,6 +16,7 @@ public class Program
 >>>>>>> cfcc8e739f0a15dd3d4f86272f5dd9e56f45d8d0
             // Nazirov Elmurod
             // Sulaymanov Islom
+            // Timur
 >>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
 
 
