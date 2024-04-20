@@ -7,7 +7,7 @@ public class Program
     {
         try
         {
-            //Javohir Aliyev
+            //oybek
 
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
