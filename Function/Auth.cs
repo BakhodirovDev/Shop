@@ -76,6 +76,15 @@ namespace Shop.Function
             Console.WriteLine();
             Console.Write("Id ni kiriting: ");
             int SelectedId=int.Parse(Console.ReadLine());
+            try
+            {
+                
+            }
+            catch 
+            {
+
+            }
+
             //id ni tekshirish Exception bilan 
             Users resultUser = userList.FirstOrDefault(m => m.Id==SelectedId);
 
