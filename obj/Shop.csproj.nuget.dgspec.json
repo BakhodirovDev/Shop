@@ -1,7 +1,34 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\shop\\Shop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+        "projectName": "Shop",
+        "projectPath": "C:\\Users\\User\\Desktop\\shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\shop\\obj\\",
+=======
+    "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj": {}
+=======
+    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
+>>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
+=======
+    "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
   },
   "projects": {
     "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj": {
@@ -14,7 +41,44 @@
         "outputPath": "C:\\Users\\user\\Desktop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {}
+=======
+    "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj": {}
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
+>>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
+>>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+  },
+  "projects": {
+    "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+        "projectName": "Shop",
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
+=======
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\clon shop\\Shop\\obj\\",
+>>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
+=======
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Shop\\obj\\",
+>>>>>>> 2a5da0acbb917d4c4a58a2824713a395ad3f5405
+>>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +119,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
         }
       }
     }
