@@ -12,13 +12,21 @@
     "C:\\Users\\user\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\WINDOWS 11\\.nuget\\packages\\": {}
+<<<<<<< HEAD
 >>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
   },
   "project": {
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\shopping\\Shop\\Shop.csproj",
+=======
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
 =======
 <<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
@@ -44,11 +52,19 @@
 >>>>>>> e32764a8d337b2bb3d3492227dca9037fa10766d
 =======
       "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+<<<<<<< HEAD
 >>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
       "projectName": "Shop",
       "projectPath": "D:\\shopping\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\shopping\\Shop\\obj\\",
+=======
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Shop\\obj\\",
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< HEAD
@@ -70,7 +86,11 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
 >>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -90,11 +110,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -117,10 +132,17 @@
           }
         },
 <<<<<<< HEAD
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
 >>>>>>> cf974c9360aab3d01f6a949e05e47caee39822e7
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
       }
     }
   },
