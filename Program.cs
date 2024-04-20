@@ -9,6 +9,7 @@ public class Program
         {
             // Nazirov Elmurod
             // Sulaymanov Islom
+            //Jasur Khushbokov
 
 
             Console.Title = "Online Shopping System";
