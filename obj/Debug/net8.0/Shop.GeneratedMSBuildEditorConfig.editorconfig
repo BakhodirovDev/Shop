@@ -8,10 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shop
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Asosiy kurs. 06.02.2024\3-Modul\Yangi\
-=======
 build_property.ProjectDir = C:\Users\anvar\Desktop\Shop\
->>>>>>> 735323d2fb4ca16416abf8a26407fbe2a80d507c
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
