@@ -8,7 +8,7 @@ public class Program
         try
         {
 <<<<<<< HEAD
-            //oybek
+            //Oybek Eshonqulov 
 =======
 <<<<<<< HEAD
             // Nazirov Elmurod
