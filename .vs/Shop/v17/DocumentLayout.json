@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,7 +45,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:35:10.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeDocumentMoniker": "Function\\Auth.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeToolTip": "Function\\Auth.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:14:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:13:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:13:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Remoter.props",
               "DocumentMoniker": "C:\\Users\\Behruz\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
@@ -42,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
               "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
               "RelativeToolTip": "Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAmAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:01:41.451Z",
               "EditorCaption": ""
