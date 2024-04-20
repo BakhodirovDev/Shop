@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "2tCQquh6d3d78vI7VW9NWghruQJMkXehT99g+ApWwRJ2fjsmboJZOaJmE3LUTjjTSIV3Dsi4SdtDGhwzpAHo3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "wWhkPNBe1g1KDJc2uzsthiaUX8JP52ZET8rxGKP57KsNqsoh9oOKXROUYyxDlHrAijbKBgwsktFXShMinwWgTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
@@ -36,6 +41,7 @@
 >>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
 >>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
 >>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
   "expectedPackageFiles": [],
   "logs": [
     {
