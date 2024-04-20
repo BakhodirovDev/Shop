@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "V9VQjQCwJsvlct2nTfNCcP3+2q3A7G/R7IasRSLAijD3sA3jo5kF25v8eNhzfFWFzsCzQRFpyFdQ6M33RtLSWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+=======
+  "dgSpecHash": "wWhkPNBe1g1KDJc2uzsthiaUX8JP52ZET8rxGKP57KsNqsoh9oOKXROUYyxDlHrAijbKBgwsktFXShMinwWgTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
   "expectedPackageFiles": [],
   "logs": []
 }

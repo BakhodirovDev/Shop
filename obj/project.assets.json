@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Behruz\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\": {}
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
       "projectName": "Shop",
       "projectPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +81,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
       }
     }
   }

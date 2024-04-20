@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Project\\NewShop\\Shop\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,9 +22,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\newshop\\shop\\datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Behruz\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\newshop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,10 +41,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -59,6 +61,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "Auth.cs",
               "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
               "RelativeDocumentMoniker": "Function\\Auth.cs",
@@ -106,10 +109,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-04-20T08:41:38.499Z",
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\NewShop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\NewShop\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:38:07.507Z",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
@@ -117,8 +131,17 @@
               "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
               "RelativeToolTip": "Main.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAmAAAA",
+=======
+              "DocumentIndex": 0,
+              "Title": "ForDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Project\\NewShop\\Shop\\DateTimes\\ForDateTime.cs",
+              "RelativeDocumentMoniker": "DateTimes\\ForDateTime.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Project\\NewShop\\Shop\\DateTimes\\ForDateTime.cs",
+              "RelativeToolTip": "DateTimes\\ForDateTime.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCwAAAAiAAAA",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:01:41.451Z",
+              "WhenOpened": "2024-04-20T16:25:01.956Z",
               "EditorCaption": ""
             }
           ]
