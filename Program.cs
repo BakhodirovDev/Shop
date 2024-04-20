@@ -9,7 +9,7 @@ public class Program
         {
             // Nazirov Elmurod
             // Sulaymanov Islom
-
+            // Abdullayev Hayot
 
             //First
 
