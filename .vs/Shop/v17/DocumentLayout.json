@@ -3,8 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Shop\\",
   "Documents": [
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:function\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\admin\\desktop\\project\\newshop\\shop\\datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
+=======
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Shop\\DateTimes\\ForDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DateTimes\\ForDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Shop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +68,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:35:10.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeDocumentMoniker": "Function\\Auth.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Function\\Auth.cs",
+              "RelativeToolTip": "Function\\Auth.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:14:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:13:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:13:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Remoter.props",
+              "DocumentMoniker": "C:\\Users\\Behruz\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
+              "ToolTip": "C:\\Users\\Behruz\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Compressed\\Remoter-main\\Remoter-main\\Remoter.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-20T08:41:38.499Z",
+=======
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -50,10 +138,25 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-04-20T16:38:07.507Z",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
+              "EditorCaption": ""
+=======
               "WhenOpened": "2024-04-20T16:38:07.507Z"
+>>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAmAAAA",
+=======
               "DocumentIndex": 0,
               "Title": "ForDateTime.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shop\\DateTimes\\ForDateTime.cs",
@@ -61,6 +164,7 @@
               "ToolTip": "C:\\Users\\User\\source\\repos\\Shop\\DateTimes\\ForDateTime.cs",
               "RelativeToolTip": "DateTimes\\ForDateTime.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAwwCwAAAAiAAAA",
+>>>>>>> cd86f855b6c91e599168bbd272c102f2a42362d4
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T16:25:01.956Z",
               "EditorCaption": ""
