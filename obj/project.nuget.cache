@@ -1,6 +1,16 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "2tCQquh6d3d78vI7VW9NWghruQJMkXehT99g+ApWwRJ2fjsmboJZOaJmE3LUTjjTSIV3Dsi4SdtDGhwzpAHo3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Shop\\Shop.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "wWhkPNBe1g1KDJc2uzsthiaUX8JP52ZET8rxGKP57KsNqsoh9oOKXROUYyxDlHrAijbKBgwsktFXShMinwWgTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WINDOWS 11\\Desktop\\Shop\\Shop.csproj",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "dgSpecHash": "XJ34ni2tpfm/BJgMYMSGMdsILYe/nSxOrIMtzspLvzF0nxWtalswVacLhxkXCP4YLgh3+5Ptyqfs2gdwAPTU/g==",
   "success": true,
@@ -38,7 +48,19 @@
 =======
 >>>>>>> 007e4a1415b845e030613f6f0e0c9f3050f0fa8d
 >>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
+<<<<<<< HEAD
 >>>>>>> 65001d3efd784c76d7c72cba5e0f8b330b25c2a2
+=======
+>>>>>>> 0f018c1399c59f49dc0dceac0806c2639fbaec82
+>>>>>>> 0e184787668fdf708f71db87804f1413f285680f
+>>>>>>> 2a3518460367d5cf38153a1a7f4f10e666416e9c
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\WINDOWS 11\\Desktop\\Shop\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
