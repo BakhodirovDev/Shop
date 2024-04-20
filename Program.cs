@@ -20,7 +20,7 @@ public class Program
             //  QONDAYSILAR !!!!!!!!!!
 
             //Oybek Eshonqulov 
-
+            //Javohir
             // Nazirov Elmurod
             // Sulaymanov Islom
             // Behruz
