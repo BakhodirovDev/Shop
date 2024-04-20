@@ -6,7 +6,7 @@ public class Program
     public static void Main()
     {
         try
-        { 
+        {
 
             // Orazbaev Merxat
 
@@ -28,7 +28,7 @@ public class Program
             // Timur
 
                 // HAYOTJON QONDAYSIZEEE
-
+                //jim jim
 
             //First
 
