@@ -18,6 +18,8 @@ public class Program
             // Sulaymanov Islom
 >>>>>>> 58e1b97006af9747da7821e9f8bb6d204b18bf5b
 
+                // HAYOTJON QONDAYSIZEEE
+
 
             //First
 
