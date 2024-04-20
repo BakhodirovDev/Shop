@@ -35,7 +35,7 @@ namespace Shop
                 switch (choose)
                 {
                     case 1:
-                        auth.LoginPage();
+                        auth.LoginPagec();
                         break;
                     case 2:
                         auth.RegisterPage();
