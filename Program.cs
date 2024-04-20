@@ -6,7 +6,7 @@ public class Program
     public static void Main()
     {
         try
-        {
+        { 
 
             // Orazbaev Merxat
 
@@ -15,7 +15,7 @@ public class Program
             //  QONDAYSILAR !!!!!!!!!!
 
             //Oybek Eshonqulov 
-
+            //Javohir
             // Nazirov Elmurod
             // Sulaymanov Islom
             // Behruz
@@ -29,6 +29,8 @@ public class Program
 
                 // HAYOTJON QONDAYSIZEEE
 
+
+            //Hamidjon Toshpo'lotov
 
             //First
 
