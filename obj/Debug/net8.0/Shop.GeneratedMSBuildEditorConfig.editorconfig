@@ -8,6 +8,18 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shop
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\anvar\Desktop\Shop\
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\WINDOWS 11\Desktop\Shop\
+=======
+build_property.ProjectDir = C:\Users\User\Source\Repos\Shop\
+>>>>>>> 5ccd8a9436675408428e600549255ac6197e464e
+=======
+build_property.ProjectDir = C:\Users\admin\Desktop\Project\NewShop\Shop\
+>>>>>>> 95feb47c29318e8fd7675ae3b420341b078cc28d
+>>>>>>> e83f116c3f81c9998b6bbd5b9d587932eb1d2569
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

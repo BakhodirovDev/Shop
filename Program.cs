@@ -28,7 +28,7 @@ public class Program
             // Timur
 
                 // HAYOTJON QONDAYSIZEEE
-
+                //jim jim
 
             //Hamidjon Toshpo'lotov
 
