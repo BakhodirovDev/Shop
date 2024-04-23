@@ -6,40 +6,8 @@ public class Program
     public static void Main()
     {
         try
-        { 
-
-            // Orazbaev Merxat
-
-            // Behruz
-
-            //  QONDAYSILAR !!!!!!!!!!
-
-            //Oybek Eshonqulov 
-            //Javohir
-            // Nazirov Elmurod
-            // Sulaymanov Islom
-            // Behruz
-            //  QONDAYSILAR !!!!!!!!!!
-            // Nazirov Elmurod
-            // Sulaymanov Islom
-            // Abdullayev Hayot
-            // dars qiling Anvar
-
-            // Timur
-
-                // HAYOTJON QONDAYSIZEEE
-                //jim jim
-
-            //Hamidjon Toshpo'lotov
-
-            //First
-
-            // Behruz
-
-            //HAMMA UYGA GOOO
-            // Mirjahon bulli ketdik
-            // Mirjahon
-            // ok
+        {   
+            // ghmhjmghjm
             Console.Title = "Online Shopping System";
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Main_Shop.main();

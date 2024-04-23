@@ -8,19 +8,34 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+<<<<<<< HEAD
+    "C:\\Users\\Behruz\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+>>>>>>> b22982498f7e188c43f6e984607a1cc23f61018f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка\\Shop\\Shop.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\user\\Desktop\\Новая папка\\Shop\\Shop.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Новая папка\\Shop\\obj\\",
+      "projectPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\Behruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj",
+      "projectName": "Shop",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\Shop\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b22982498f7e188c43f6e984607a1cc23f61018f
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
