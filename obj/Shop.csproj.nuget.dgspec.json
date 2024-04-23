@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+        "projectName": "Shop",
+        "projectPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\Behruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> b22982498f7e188c43f6e984607a1cc23f61018f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

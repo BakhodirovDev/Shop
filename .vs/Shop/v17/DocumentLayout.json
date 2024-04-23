@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\shopping\\Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|D:\\shopping\\Shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|d:\\shopping\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|D:\\shopping\\Shop\\datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|c:\\users\\behruz\\onedrive\\desktop\\shop\\datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6BA6EB-2381-4CB3-A1EA-8C1C62F22E97}|Shop.csproj|solutionrelative:datetimes\\fordatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,41 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\shopping\\Shop\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\shopping\\Shop\\Main.cs",
-              "RelativeToolTip": "Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T16:35:09.865Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-20T17:34:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:35:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\shopping\\Shop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\shopping\\Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAALAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T16:38:07.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ForDateTime.cs",
-              "DocumentMoniker": "D:\\shopping\\Shop\\DateTimes\\ForDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\DateTimes\\ForDateTime.cs",
               "RelativeDocumentMoniker": "DateTimes\\ForDateTime.cs",
-              "ToolTip": "D:\\shopping\\Shop\\DateTimes\\ForDateTime.cs",
+              "ToolTip": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\DateTimes\\ForDateTime.cs",
               "RelativeToolTip": "DateTimes\\ForDateTime.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
