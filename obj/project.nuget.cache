@@ -1,14 +1,10 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "V9VQjQCwJsvlct2nTfNCcP3+2q3A7G/R7IasRSLAijD3sA3jo5kF25v8eNhzfFWFzsCzQRFpyFdQ6M33RtLSWg==",
+  "dgSpecHash": "Di/eVkwXGUJbfHH++QEktclX35u77U9wlcatHpHdoSN59IA71RBTtAQAzS2weoG8oL0ZPt7jPChdky5emmSlsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj",
-=======
-  "dgSpecHash": "u0XcbTwngzOYmL0uQWd8kboGDQlZ7SVp4FDl9X3lpniaA9H9X89nORxopRFs5iwDzkS/A8w1zLl8rdQCSGSPBg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj",
->>>>>>> b22982498f7e188c43f6e984607a1cc23f61018f
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Behruz\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.31\\microsoft.windows.sdk.net.ref.10.0.17763.31.nupkg.sha512"
+  ],
   "logs": []
 }

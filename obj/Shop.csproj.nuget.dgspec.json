@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Behruz\\OneDrive\\Desktop\\Shop\\Shop.csproj": {}
   },
   "projects": {
@@ -16,34 +15,18 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Behruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj",
-        "projectName": "Shop",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\Shop\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> b22982498f7e188c43f6e984607a1cc23f61018f
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0-windows10.0.17763.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net8.0-windows10.0.17763": {
+            "targetAlias": "net8.0-windows10.0.17763.0",
             "projectReferences": {}
           }
         },
@@ -59,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows10.0.17763": {
+          "targetAlias": "net8.0-windows10.0.17763.0",
           "imports": [
             "net461",
             "net462",
@@ -72,8 +55,17 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.17763.31, 10.0.17763.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
               "privateAssets": "all"
             }
           },
