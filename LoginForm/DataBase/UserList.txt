@@ -1,7 +1,0 @@
-1,asgdfyu,zdfgdrth,xfgdhfghxfgh,User
-2,asgdfyu,zdfgdrth,xfgdhfghxfgh,User
-3,asgdfyu,zdfgdrth,xfgdhfghxfgh,User
-4,sdgfsdfg,dfasdf,sdfasdf,User
-5,sdgfsdfg,dfasdfs,sdfasdf,User
-6,Behruz,bbahodirov,0216,User
-7,Bahodirov Behruz Botirovich,CoderBehruz,0216,User
